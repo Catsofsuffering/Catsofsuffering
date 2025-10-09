@@ -1,16 +1,16 @@
-## Hi there 👋
+**Hi there! I'm Ventus.**
 
-<!--
-**Catsofsuffering/Catsofsuffering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clarity of purpose begins learning. Depth of thought yields truth.
 
-Here are some ideas to get you started:
+- Security & Data Enthusiast
+- AI Fine-tuning Specialist 
+- Automation Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+明辨所求，学问之始。思想深潜，方得真知。
+
+- 我坚信真正的学习始于明确目标，深刻的思想来源于深度思考而非盲目追随。
+- 一名专注于网络安全、数据建模与分析、大模型微调及落地应用，以及n8n自动化平台的实践者。
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Catsofsuffering&show_icons=true)
